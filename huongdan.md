@@ -81,6 +81,7 @@ Khuyến nghị nên sài:
 
     Trong terminal
     ```bash
+        npm instal
         npm run dev
     ```
 
